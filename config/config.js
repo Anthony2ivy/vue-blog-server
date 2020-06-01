@@ -1,3 +1,3 @@
 module.exports= {
-    sqliteStoragePath:"D:\\blog.sqlite"
+    sqliteStoragePath:"C:\\\\db\\blog.sqlite"
 }
